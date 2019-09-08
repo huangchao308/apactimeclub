@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+cfDist
+node_modules
+package-lock.json
+.vscode
+.sonarlint
